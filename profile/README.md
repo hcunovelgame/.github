@@ -2,7 +2,7 @@
 
 ## 私たちについて
 [広島市立大学](https://www.hiroshima-cu.ac.jp) を拠点に活動する、ノベルゲーム同好会です。\
-今までに発表した作品については [Web サイト](https://hcunovelgame.github.io) をご覧ください。
+今までに発表した作品については [こちら](https://hcunovelgame.itch.io) をご覧ください。
 
 ## 関連リンク
 * Twitter アカウント: [@hcunovelgame](https://twitter.com/hcunovelgame)
